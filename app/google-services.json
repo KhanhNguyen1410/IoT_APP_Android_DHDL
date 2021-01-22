@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373694495289",
+    "firebase_url": "https://iotofkhanh3.firebaseio.com",
+    "project_id": "iotofkhanh3",
+    "storage_bucket": "iotofkhanh3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373694495289:android:f9c6b83145325891666be8",
+        "android_client_info": {
+          "package_name": "com.example.iotdemopart3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373694495289-dbgke2fh7c6cvmt733la5neb4gthvsgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9JOpn6DJsIvRD8pyBkBrdEsaWiCJB10Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373694495289-dbgke2fh7c6cvmt733la5neb4gthvsgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
